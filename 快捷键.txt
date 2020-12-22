@@ -1,0 +1,2 @@
+ctrl+？ #注释掉代码块
+reset   #pycharm清除环境中所有变量
